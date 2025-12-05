@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemmaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://teraboxplayerbot.blogspot.com/</loc>
+    <lastmod>2025-05-12T10:00:00+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://blogger.googleusercontent.com/img/a/AVvXsEj3ZmujX1pfy7PGSraLqT0FUSs8IqUC5P8Gtdf8sL0LvBmIdjbR7j7VCK4buKZjKTxpzN9nnJGoEteynSOFeDtmSGYkRNZiIUafG-_dKuX1kvvuWOAL3orCS4eYxHJx3SBY285ae88scO98i9HZc4g_KUTHGOFE2_BF5RGlMoEaytzRzXy2VxPa9LcLx6I=w640-h427</image:loc>
+      <image:title>Terabox Player Bot</image:title>
+      <image:caption>Play Terabox videos instantly</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
